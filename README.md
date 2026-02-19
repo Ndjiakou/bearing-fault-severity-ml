@@ -1,6 +1,7 @@
-Author
+👤 Author
 
 Maiva Ndjiakou Kaptue
+AI / Machine Learning Engineer
 # Bearing Fault Severity Classification (Group-Aware ML System)
 
 Advanced vibration-based bearing fault severity classification using 
