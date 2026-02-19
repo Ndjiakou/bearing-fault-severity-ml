@@ -116,13 +116,25 @@ where fault diameter strongly correlates with vibration energy.
 
 ## 🚀 How to Run
 
-1. Place dataset in:
+The raw dataset is not included in this repository.
+
+To reproduce results:
+
+1. Download data from:
+   https://engineering.case.edu/bearingdatacenter
+
+2. Place files into:
 
 Dataset/
     Normal/
     Faulty/
 
-2. Run:
+
+3. Run:
 
 ```bash
 python main.py
+
+''````
+
+
